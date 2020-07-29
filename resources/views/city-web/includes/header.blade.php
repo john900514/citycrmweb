@@ -39,7 +39,7 @@
                         <a>Resources</a>
                         <ul class="sub-menu">
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54496">
-                                <a href="{!! env('APP_URL') !!}/blog/">Blog</a>
+                                <a href="https://capeandbay.com/blog/">Blog</a>
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54313">
                                 <a href="https://helpdesk.citycrm.com/">Knowledge Base</a>
