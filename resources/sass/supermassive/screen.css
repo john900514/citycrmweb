@@ -986,7 +986,6 @@ blockquote span {
 /* line 594, ../sass/screen.scss */
 #popup .mainMenu h6 {
     color: #fff;
-    font-family: 'simplicitapro';
     letter-spacing: 2.5px;
 }
 /* line 597, ../sass/screen.scss */
@@ -1778,6 +1777,7 @@ Responsive
     }
     header .logo img {
         width: 100% !important;
+        max-height: 3em !important;
     }
     header .login {
         font-size: 20px !important;
