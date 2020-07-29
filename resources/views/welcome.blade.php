@@ -17,10 +17,6 @@
 
             <div class="vc_row-full-width vc_clearfix"></div>
 
-            @include('city-web.pages.welcome.alt-pitch3')
-
-            <div class="vc_row-full-width vc_clearfix"></div>
-
             @include('city-web.pages.welcome.alt-pitch2')
 
             <div class="vc_row-full-width vc_clearfix"></div>

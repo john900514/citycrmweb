@@ -9,7 +9,7 @@
             </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-7 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  max-width-400-at-768 center-at-768">
                     <div class="wpb_wrapper">
-                        <h2>Personalized Government to Citizen Engagement</h2>
+                        <h2>Customized Government to Citizen Engagement</h2>
 
                     </div>
                 </div>
@@ -24,9 +24,9 @@
                 <div class="wpb_text_column wpb_content_element  vc_custom_1594429327003 list-margin-bottom">
                     <div class="wpb_wrapper">
                         <ul>
-                            <li>GovText is the government text message system which connects you with your constituents anytime, anywhere. Text alerts are the fastest, most reliable way to keep voters engaged and informed.</li>
-                            <li>GovText combines broadcast text messaging with our database of over 200M+ constituents mobile phones to create a hyper-secure web-based utility.</li>
-                            <li>SMS messages have a 93% open rate and, on average, are read within 90 seconds of arrival.</li>
+                            <li>CityCRM is a premier CRM/CMS platform designed by Marketers with City Governments in mind. </li>
+                            <li>Built on a powerful digital marketing platform proven to sales in other industries, CityCRM is tailor-built to handle any scenario.</li>
+                            <li>CityCRM can organize your departments and keep your citizens informed in more ways than every before.</li>
                         </ul>
 
                     </div>

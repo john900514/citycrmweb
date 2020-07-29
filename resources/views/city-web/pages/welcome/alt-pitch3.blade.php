@@ -1,14 +1,14 @@
 <div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid padding-top-6-5vw padding-bottom-6-5vw vc_column-gap-5 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex" style="position: relative; left: -35px; box-sizing: border-box; width: 1140px; padding-left: 35px; padding-right: 35px;"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-7 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  center-at-768 padding-bottom-1-8vw">
                     <div class="wpb_wrapper">
-                        <h2>Personalized Government to Citizen Engagement</h2>
+                        <h2>Customized Government to Citizen Engagement</h2>
 
                     </div>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element  padding-bottom-1-8vw">
                     <div class="wpb_wrapper">
-                        <p>iConstituent’s GovText communication tool lets you create personalized two-way conversations intended to drive constituent services, aid in citizen management, and build stronger relationships with your citizens.</p>
+                        <p>CityCRM’s GovText communication tool lets you create personalized two-way conversations intended to drive constituent services, aid in citizen management, and build stronger relationships with your citizens.</p>
 
                     </div>
                 </div>

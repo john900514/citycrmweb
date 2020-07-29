@@ -791,7 +791,8 @@ sup {
 
 .body-default .wpb_text_column ul li::before {
     color: #006AC8;
-    content: "â—";
+    content: "\f111";
+    font-family: "Font Awesome 5 Pro";
     margin-right: 5px;
 }
 

@@ -7,6 +7,17 @@
 require('./bootstrap');
 
 window.Vue = require('vue');
+window.Vuetify = require('vuetify');
+
+Vue.use(Vuetify);
+
+const opts = {
+    icons: {
+        iconfont: 'fa', // 'mdi' || 'mdiSvg' || 'md' || 'fa' || 'fa4'
+    },
+};
+
+export default new Vuetify(opts);
 
 /**
  * The following block of code may be used to automatically register your

@@ -49,7 +49,7 @@
                     <li class="login-button menu-item menu-item-type-custom menu-item-object-custom menu-item-54067">
                         <a href="{!! env('APP_URL') !!}/login?client=true">Login</a>
                     </li>
-                    <li class="book-button menu-item menu-item-type-post_type menu-item-object-page menu-item-54062" data-popup-id="54251"><a href="{!! env('APP_URL') !!}/schedule-a-demo/">Book a Demo</a></li>
+                    <li class="book-button menu-item menu-item-type-post_type menu-item-object-page menu-item-54062" data-popup-id="54251"><a href="#formcta">Book a Demo</a></li>
                 </ul>
             </div>
 
@@ -77,11 +77,15 @@
                     </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-1"><div class="vc_column-inner"><div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <p><img id="alertClose" style="cursor: pointer; height: 15px; width: 15px; display: flex; position: absolute; right: 0; top: 10px; opacity: 0.7;" src="/images/notification_close.svg"><br>
+                                <p>
+                                    <img id="alertClose" style="cursor: pointer; height: 15px; width: 15px; display: flex; position: absolute; right: 0; top: 10px; opacity: 0.7;" src="{!! asset('/images/notification_close.svg') !!}">
+                                    <br>
                                     <script>document.getElementById('alertClose').addEventListener('click', function () {
                                             document.getElementById("alertBanner").outerHTML = "";
                                             sessionStorage.setItem("alertBanner", "closed");
-                                        })</script></p>
+                                        })
+                                    </script>
+                                </p>
 
                             </div>
                         </div>

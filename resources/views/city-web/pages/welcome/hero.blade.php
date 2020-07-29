@@ -4,13 +4,13 @@
             <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  vc_custom_1595860675178 center-at-768">
                     <div class="wpb_wrapper">
-                        <h1>Transform the way you engage with your constituents</h1>
+                        <h1>Transform the way you engage with your City</h1>
                     </div>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element ">
                     <div class="wpb_wrapper">
-                        <div>We built the iConstituent Engagement Platform with the belief that secure, efficient, impactful communications can bring people and government closer together.</div>
+                        <div>We're building the CityCRM Platform on the core principals of & Culture, scaled way up! That secure, efficient, and digital communications can bring people and government closer together Especially now more than ever.</div>
                     </div>
                 </div>
 
@@ -19,7 +19,7 @@
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container  right-arrow vc_btn3-center">
-                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Products</a>
+                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Solutions</a>
                                 </div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container  ctaform vc_btn3-center" data-popup-id="54251">
-                                    <button class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey">Book a Demo</button>
+                                    <button class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey" onclick="alert('Available Soon!')">Book a Demo</button>
                                 </div>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container  right-arrow vc_btn3-center">
-                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Products</a>
+                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Solutions</a>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container vc_btn3-center">
-                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey" href="/schedule-a-demo/" title="">Book a Demo</a>
+                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey" href="#formcta" title="" onclick="alert('Available Soon!')">Book a Demo</a>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +77,7 @@
                         <div class="vc_column-inner vc_custom_1594566219100">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container  right-arrow vc_btn3-center">
-                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Products</a>
+                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-block vc_btn3-color-grey" href="#explorecep" title="">Explore Solutions</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                         <div class="vc_column-inner vc_custom_1594566228569">
                             <div class="wpb_wrapper">
                                 <div class="vc_btn3-container vc_btn3-center">
-                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey" href="/schedule-a-demo/" title="">Book a Demo</a>
+                                    <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-block vc_btn3-color-grey" href="/schedule-a-demo" title="">Book a Demo</a>
                                 </div>
                             </div>
                         </div>
