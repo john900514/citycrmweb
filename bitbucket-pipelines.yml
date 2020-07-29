@@ -40,7 +40,7 @@ pipelines:
             - composer require laravel/vapor-cli
             - ln -f -s .env.pipelines .env
             - vendor/bin/vapor deploy production
-    staging:
+    develop:
       - step:
           name: Perform Unit Testing Staging
           caches:
