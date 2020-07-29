@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "211be0459aea5c26266f0b9d4a36f3c0",
+    "content-hash": "37ff9337bb37cb59e8b470471da571c0",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -888,6 +888,60 @@
                 "php-fpm"
             ],
             "time": "2020-05-19T14:06:29+00:00"
+        },
+        {
+            "name": "ixudra/curl",
+            "version": "6.19.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ixudra/curl.git",
+                "reference": "08cb70241ae9ce26f5cb3e4f18366d11fa8a279b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ixudra/curl/zipball/08cb70241ae9ce26f5cb3e4f18366d11fa8a279b",
+                "reference": "08cb70241ae9ce26f5cb3e4f18366d11fa8a279b",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "illuminate/support": ">=4.0",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Ixudra\\Curl\\CurlServiceProvider"
+                    ],
+                    "aliases": {
+                        "Curl": "Ixudra\\Curl\\Facades\\Curl"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Ixudra\\Curl\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jan Oris",
+                    "email": "jan.oris@ixudra.be"
+                }
+            ],
+            "description": "Custom PHP Curl library for the Laravel 5 framework - developed by Ixudra",
+            "homepage": "http://ixudra.be",
+            "keywords": [
+                "Ixudra",
+                "curl",
+                "laravel"
+            ],
+            "time": "2020-03-03T19:08:05+00:00"
         },
         {
             "name": "laravel/framework",
@@ -2714,6 +2768,76 @@
                 "parser"
             ],
             "time": "2020-01-24T09:39:24+00:00"
+        },
+        {
+            "name": "silber/bouncer",
+            "version": "v1.0.0-rc.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/JosephSilber/bouncer.git",
+                "reference": "c716ee07f9568e9774b6934314620bc9d9d1d65a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/JosephSilber/bouncer/zipball/c716ee07f9568e9774b6934314620bc9d9d1d65a",
+                "reference": "c716ee07f9568e9774b6934314620bc9d9d1d65a",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/auth": "^6.0|^7.0",
+                "illuminate/cache": "^6.0|^7.0",
+                "illuminate/container": "^6.0|^7.0",
+                "illuminate/contracts": "^6.0|^7.0",
+                "illuminate/database": "^6.0|^7.0",
+                "php": "^7.2"
+            },
+            "require-dev": {
+                "illuminate/console": "^6.0|^7.0",
+                "illuminate/events": "^6.0|^7.0",
+                "larapack/dd": "^1.1",
+                "phpunit/phpunit": "^8.0"
+            },
+            "suggest": {
+                "illuminate/console": "Allows running the bouncer:clean artisan command",
+                "illuminate/events": "Required for multi-tenancy support"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Silber\\Bouncer\\BouncerServiceProvider"
+                    ],
+                    "aliases": {
+                        "Bouncer": "Silber\\Bouncer\\BouncerFacade"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Silber\\Bouncer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Joseph Silber",
+                    "email": "contact@josephsilber.com"
+                }
+            ],
+            "description": "Eloquent roles and abilities.",
+            "keywords": [
+                "abilities",
+                "acl",
+                "capabilities",
+                "eloquent",
+                "laravel",
+                "permissions",
+                "roles"
+            ],
+            "time": "2020-03-31T15:14:45+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
