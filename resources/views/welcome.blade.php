@@ -1,7 +1,13 @@
 @extends('city-web.layouts.default')
 
 @section('before-styles')
-
+    <style>
+        @media screen {
+            .owl-item p {
+                font-family: 'semplicitapro';
+            }
+        }
+    </style>
 @endsection
 
 @section('content')

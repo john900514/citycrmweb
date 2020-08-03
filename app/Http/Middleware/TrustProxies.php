@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace CityCRM\Http\Middleware;
 
 use Fideloper\Proxy\TrustProxies as Middleware;
 use Illuminate\Http\Request;
@@ -10,7 +10,7 @@ class TrustProxies extends Middleware
     /**
      * The trusted proxies for this application.
      *
-     * @var array|string|null
+     * @var array|string
      */
     protected $proxies;
 

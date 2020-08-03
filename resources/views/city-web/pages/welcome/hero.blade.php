@@ -10,7 +10,7 @@
 
                 <div class="wpb_text_column wpb_content_element ">
                     <div class="wpb_wrapper">
-                        <div>We're building the CityCRM Platform on the core principals of & Culture, scaled way up! That secure, efficient, and digital communications can bring people and government closer together Especially now more than ever.</div>
+                        <div style="font-size: 2.25em;margin: 5% 0;">We're building the CityCRM Platform on the core principals of & Culture, scaled way up! That secure, efficient, and digital communications can bring people and government closer together Especially now more than ever.</div>
                     </div>
                 </div>
 

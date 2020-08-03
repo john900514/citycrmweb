@@ -70,7 +70,6 @@
 <link rel="stylesheet" id="testimonial-rotator-style-css" href="https://iconstituent.com/wp-content/plugins/testimonial-rotator/testimonial-rotator-style.css?ver=5.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="js_composer_front-css" href="//iconstituent.com/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=6.2.0" type="text/css" media="all">
 
-<script type="text/javascript" src="{!! asset('/js/app.js') !!}"></script>
 <script type="text/javascript" src="https://iconstituent.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 
 <script type="text/javascript">

@@ -764,7 +764,7 @@ header.top-default #menuIcon {
 }
 
 sup {
-    font-family: Source Sans Pro;
+    font-family: 'semplicitapro';
     font-style: normal;
     font-weight: 600;
     font-size: 50%;
@@ -798,7 +798,7 @@ sup {
 
 .vc_btn3.vc_btn3-color-grey {
     border-color: #006AC8 !important;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: ''semplicitapro'', sans-serif;
     font-size: 18px !important;
     font-weight: 400 !important;
     letter-spacing: 0.02em !important;
@@ -901,7 +901,7 @@ sup {
 }
 
 #features p {
-    font-family: Source Sans Pro;
+    font-family: 'semplicitapro';
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -963,7 +963,7 @@ sup {
 
 #partners_slider .owl-item p.quote {
     color: #272F40;
-    font-family: Source Sans Pro;
+    font-family: 'semplicitapro';
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -1145,7 +1145,7 @@ sup {
 }
 
 .blog.owl-carousel .description {
-    font-family: Source Sans Pro;
+    font-family: 'semplicitapro';
     font-style: normal;
     font-weight: normal;
     font-size: 13.2432px;
@@ -1224,7 +1224,7 @@ sup {
     text-align: center;
     letter-spacing: 2.37179px;
     text-transform: uppercase;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: ''semplicitapro'', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 13px;

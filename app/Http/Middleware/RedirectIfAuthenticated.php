@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace CityCRM\Http\Middleware;
 
-use App\Providers\RouteServiceProvider;
+use CityCRM\Providers\RouteServiceProvider;
 use Closure;
 use Illuminate\Support\Facades\Auth;
 

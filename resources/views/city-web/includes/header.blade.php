@@ -47,7 +47,7 @@
                         </ul>
                     </li>
                     <li class="login-button menu-item menu-item-type-custom menu-item-object-custom menu-item-54067">
-                        <a href="{!! env('APP_URL') !!}/login?client=true">Login</a>
+                        <a href="/login?client=true">Login</a>
                     </li>
                     <li class="book-button menu-item menu-item-type-post_type menu-item-object-page menu-item-54062" data-popup-id="54251"><a href="#formcta">Book a Demo</a></li>
                 </ul>
@@ -68,10 +68,16 @@
             }
         </style>
 
-        <div id="alertBanner" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid white-font font-weight-400 notification-banner vc_custom_1594929641803 vc_row-has-fill" style="position: relative; left: -153px; box-sizing: border-box; width: 1370px; padding-left: 153px; padding-right: 153px;"><div class="wpb_column vc_column_container vc_col-sm-10 vc_col-xs-11"><div class="vc_column-inner vc_custom_1595211239930"><div class="wpb_wrapper">
+        <div id="alertBanner" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid white-font font-weight-400 notification-banner vc_custom_1594929641803 vc_row-has-fill" style="position: relative; left: -153px; box-sizing: border-box; width: 1370px; padding-left: 153px; padding-right: 153px;">
+            <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-xs-11">
+                <div class="vc_column-inner vc_custom_1595211239930"><div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Respond to COVID-19 with agility and scale. <a href="https://capeandbay.com/shipyardblog/google-clairvoyance-how-the-google-algorithm-may-be-able-to-predict-the-next-pandemic/"><strong>Learn&nbsp;more.</strong></a></p>
+                                <p style="text-align: center;font-size: 2.35em;font-weight: 300;">Respond to COVID-19 with agility and scale.
+                                    <a href="https://capeandbay.com/shipyardblog/google-clairvoyance-how-the-google-algorithm-may-be-able-to-predict-the-next-pandemic/">
+                                        <strong style="font-weight: 900;">Learn&nbsp;more.</strong>
+                                    </a>
+                                </p>
                             </div>
                         </div>
                     </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-1"><div class="vc_column-inner"><div class="wpb_wrapper">
@@ -96,5 +102,6 @@
 <!-- #headInner -->
 <script>let alertBanner = sessionStorage.getItem("alertBanner");
     if (alertBanner != null) {
-        document.getElementById("alertBanner").outerHTML = "";
-    }</script>
+        //document.getElementById("alertBanner").outerHTML = "";
+    }
+</script>
